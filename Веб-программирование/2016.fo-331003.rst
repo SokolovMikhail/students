@@ -150,7 +150,7 @@
      -
    * - 11
      - Соколов Михаил
-     -
+     - SokolovMikhail <https://github.com/SokolovMikhail> _
      -
      -
      -
